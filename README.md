@@ -8,6 +8,7 @@ The time slots are color coded based on the time of day. If the time has past, t
 
 
 <strong>Deployed Application</strong>
-<a src="https://lhafoka13.github.io/Work-Day-Scheduler/">Work Day Scheduler Application</a>
+<br><br>
+<a href="https://lhafoka13.github.io/Work-Day-Scheduler/">Work Day Scheduler Application</a>
 
 
