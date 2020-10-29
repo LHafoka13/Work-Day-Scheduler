@@ -7,3 +7,7 @@ At the top of the application, it will display the current date.
 The time slots are color coded based on the time of day. If the time has past, the time slot will be gray. If the time is in the present, the time slot will be green. If the time is in the future, the time slot will be red. 
 
 
+<strong>Deployed Application</strong>
+<a src="https://lhafoka13.github.io/Work-Day-Scheduler/">Work Day Scheduler Application</a>
+
+
